@@ -12,7 +12,7 @@ Hi, I'm Carlos!
 ```
 Soy-carlosshenhin
 -------------------------
-📚 Graduado como Bachiller En Ciencias en la U.E.N Baralt 1 
+📚 Graduado como Bachiller en la U.E.N Baralt 1 
 📝 fuertemente interesado en perfeccionar mis habilidades de POO para proyectos, programacion web, base de datos y animación
 🔭 Enfocado a cumplir nuevos objetivos en busca de ampliar mi campo de trabajo
 🌟 lenguages: Python, JavaScript, CSS, HTML, C++
