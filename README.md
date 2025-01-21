@@ -10,10 +10,10 @@ Hi, I'm Carlos!
 <hr>
 
 ```
-Soy-carlosshenhin
+Soy-CJ
 -------------------------
 📚 Graduado como Bachiller en la U.E.N Baralt 1 
-📝 fuertemente interesado en perfeccionar mis habilidades de POO para proyectos, programacion web, base de datos y animación
+📝 Interesado en perfeccionar mis habilidades en programacion orientada a objetos para proyectos, desarrollo web y animación
 🔭 Enfocado a cumplir nuevos objetivos en busca de ampliar mi campo de trabajo
 🌟 lenguages: Python, JavaScript, CSS, HTML, C++
 🌱 Interesado en aprender acerca de desarrollo de inteligencia artificial y entusiasta del arte en 3D
